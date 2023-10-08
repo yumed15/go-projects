@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-func scrapeSite(webpageURL string, crawedLinksChannel chan string) {
+func scrapeSite(webpageURL string, crawledSitesChannel chan string) {
 
 	response, success := connectToSite(webpageURL)
 
@@ -35,7 +35,7 @@ func scrapeSite(webpageURL string, crawedLinksChannel chan string) {
 
 			if ok {
 				go func() {
-					crawedLinksChannel <- cl
+					crawledSitesChannel <- cl
 				}()
 			}
 		}
