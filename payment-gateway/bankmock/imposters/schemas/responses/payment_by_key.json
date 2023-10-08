@@ -1,0 +1,12 @@
+{
+  "payments": [
+    {
+      "idempotencyKey": "01D8EMQ185CA8PRGE20DKZTGSR",
+      "cardNumber": "32132132",
+      "expiryDate": "102022",
+      "amount": 10.32,
+      "currency": "GBP",
+      "cvv": "021"
+    }
+  ]
+}

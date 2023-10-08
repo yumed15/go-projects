@@ -1,0 +1,8 @@
+{
+  "idempotencyKey": "string",
+  "cardNumber": "string",
+  "expiryDate": "string",
+  "amount": "integer",
+  "currency": "string",
+  "cvv": "string"
+}

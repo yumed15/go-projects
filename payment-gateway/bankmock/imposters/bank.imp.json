@@ -1,0 +1,31 @@
+[
+  {
+    "request": {
+      "method": "POST",
+      "endpoint": "/payments",
+      "schemaFile": "schemas/requests/create_payment.json"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  },
+  {
+    "request": {
+      "method": "GET",
+      "endpoint": "/payments",
+      "params": {
+        "key": "{_key:[\\w]+}"
+      }
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyFile": "schemas/responses/payment_by_key.json"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+imposters_path: .
+port: 3000
+host: "localhost"
+proxy: none
+watcher: true
+cors:
+  methods: ["GET", "POST"]
+  headers: ["Content-Type"]
+  exposed_headers: ["Cache-Control"]
+  origins: ["*"]
+  allow_credentials: true
+secure: true
