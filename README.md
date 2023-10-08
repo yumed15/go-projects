@@ -1,1 +1,1 @@
-# go-projects
+# A repo of simple Go projects
