@@ -1,0 +1,49 @@
+{
+  "vehicles": [
+    {
+      "id": "v001",
+      "max_range_km": 20,
+      "kwh_per_100_km": 15
+    },
+    {
+      "id": "v006",
+      "max_range_km": 40,
+      "kwh_per_100_km": 17
+    },
+    {
+      "id": "v004",
+      "max_range_km": 40,
+      "kwh_per_100_km": 17
+    },
+    {
+      "id": "v009",
+      "max_range_km": 80,
+      "kwh_per_100_km": 20
+    },
+    {
+      "id": "v005",
+      "max_range_km": 45,
+      "kwh_per_100_km": 17
+    },
+    {
+      "id": "v007",
+      "max_range_km": 80,
+      "kwh_per_100_km": 21
+    },
+    {
+      "id": "v002",
+      "max_range_km": 30,
+      "kwh_per_100_km": 16
+    },
+    {
+      "id": "v003",
+      "max_range_km": 25,
+      "kwh_per_100_km": 15
+    },
+    {
+      "id": "v008",
+      "max_range_km": 80,
+      "kwh_per_100_km": 15
+    }
+  ]
+}

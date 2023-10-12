@@ -1,0 +1,308 @@
+{
+  "routes": [
+    {
+      "route_id": "R2731820",
+      "stops": [
+        {
+          "stop_id": "a441f0e8-77cc-41e7-bc67-14a3a0b87e0e",
+          "distance_km": 2.5
+        },
+        {
+          "stop_id": "b4a4b1d4-8e7e-4ad5-9d92-c5c5e3f5a5e1",
+          "distance_km": 3.7
+        },
+        {
+          "stop_id": "c9d9fbf9-6f53-4181-bc6a-4f4a4a47419f",
+          "distance_km": 0.9
+        },
+        {
+          "stop_id": "cf5e5c5a-7e1e-4b90-8df5-91a9e11d5576",
+          "distance_km": 4.7
+        },
+        {
+          "stop_id": "2d96cbeb-9a2d-42af-9bcf-16c615bfc6f5",
+          "distance_km": 4.2
+        },
+        {
+          "stop_id": "86ee30c1-6b9f-4f71-ba84-6c92f6a21a6d",
+          "distance_km": 2.7
+        },
+        {
+          "stop_id": "39e1d0a6-9a7f-48d3-aa7a-3f8d53a94f48",
+          "distance_km": 1.3
+        }
+      ]
+    },
+    {
+      "route_id": "R5839156",
+      "stops": [
+        {
+          "stop_id": "d69c6f05-85b3-4e84-a3e8-eb2b9d9e346e",
+          "distance_km": 7.5
+        },
+        {
+          "stop_id": "e52c71cb-8eb3-4d9f-9c48-945042e39b0f",
+          "distance_km": 4.5
+        },
+        {
+          "stop_id": "fca1decc-00b2-41dc-9a7a-103974d43de8",
+          "distance_km": 6.3
+        },
+        {
+          "stop_id": "c2c365d1-8a16-481c-bdd2-2b5f1b8deedc",
+          "distance_km": 8.1
+        },
+        {
+          "stop_id": "3a531c21-5459-4cf9-927c-5dfe56e97c4b",
+          "distance_km": 2.4
+        },
+        {
+          "stop_id": "891ccdf5-f4d4-4bb2-8d2b-37a0a35f455f",
+          "distance_km": 5.7
+        }
+      ]
+    },
+    {
+      "route_id": "R7527039",
+      "stops": [
+        {
+          "stop_id": "a89089ab-24c2-449e-9f34-df0de29f92b1",
+          "distance_km": 4.2
+        },
+        {
+          "stop_id": "b460d2f9-82c9-47f7-82c1-ea1414388ee3",
+          "distance_km": 8.2
+        },
+        {
+          "stop_id": "c12382b2-1c84-47f6-921e-0f60c2f48d36",
+          "distance_km": 2.4
+        },
+        {
+          "stop_id": "d64b44de-e4c6-4bc6-bd77-82b1f4c32a08",
+          "distance_km": 0.8
+        },
+        {
+          "stop_id": "e6d10ee6-f4b6-4b4f-8775-5e5d61eaf295",
+          "distance_km": 1.9
+        }
+      ]
+    },
+    {
+      "route_id": "R4950482",
+      "stops": [
+        {
+          "stop_id": "aaff3909-880e-428d-81d5-5fa3f5af52cb",
+          "distance_km": 5.1
+        },
+        {
+          "stop_id": "d1a788ba-4070-429f-81da-8cda9529f9a6",
+          "distance_km": 4.8
+        },
+        {
+          "stop_id": "d57ee6a4-c6c2-4a10-8a4d-26697b6e0bf6",
+          "distance_km": 2.7
+        },
+        {
+          "stop_id": "e739f6d3-22e3-4f88-8f14-3e30f439c721",
+          "distance_km": 5.2
+        },
+        {
+          "stop_id": "bda647da-e62d-4a07-9c77-f8b5e4561d17",
+          "distance_km": 4.6
+        },
+        {
+          "stop_id": "b2eb9aa6-b97f-4a12-930c-c72e09db44e2",
+          "distance_km": 3.1
+        },
+        {
+          "stop_id": "e83a45dc-c04f-476e-a64d-d68b461098e1",
+          "distance_km": 3.3
+        },
+        {
+          "stop_id": "eb4c1b57-b1c9-45b9-bb7d-9630a83468e2",
+          "distance_km": 3.6
+        }
+      ]
+    },
+    {
+      "route_id": "R8370118",
+      "stops": [
+        {
+          "stop_id": "d8f928fe-7f25-4c29-b0af-8c8f9a1a3bf1",
+          "distance_km": 5.2
+        },
+        {
+          "stop_id": "a8f0abec-9fa5-4dc3-bf3a-529fd5e5c0c5",
+          "distance_km": 8.1
+        },
+        {
+          "stop_id": "f8d20092-23a8-4c16-9e25-8a8eac9d85b2",
+          "distance_km": 4.3
+        },
+        {
+          "stop_id": "c09db36c-300a-4efc-aa55-14a8a15f4511",
+          "distance_km": 3.5
+        },
+        {
+          "stop_id": "e5e5f5e5-5c02-4a2a-975c-aa9abf836a09",
+          "distance_km": 3.8
+        },
+        {
+          "stop_id": "b6c73d7b-0da8-4a2d-8bb2-7f336a1e9711",
+          "distance_km": 2.2
+        }
+      ]
+    },
+    {
+      "route_id": "R3102246",
+      "stops": [
+        {
+          "stop_id": "e2f2f764-3129-4a28-bc8f-b93e4b4f4d10",
+          "distance_km": 3.7
+        },
+        {
+          "stop_id": "e5e5f5e5-5c02-4a2a-975c-aa9abf836a09",
+          "distance_km": 2.2
+        },
+        {
+          "stop_id": "a0eb119f-7f85-47c6-a8e2-c1f3365d2083",
+          "distance_km": 5.5
+        },
+        {
+          "stop_id": "f8d20092-23a8-4c16-9e25-8a8eac9d85b2",
+          "distance_km": 4.8
+        },
+        {
+          "stop_id": "c09db36c-300a-4efc-aa55-14a8a15f4511",
+          "distance_km": 3.2
+        },
+        {
+          "stop_id": "bda647da-e62d-4a07-9c77-f8b5e4561d17",
+          "distance_km": 6.1
+        },
+        {
+          "stop_id": "b2eb9aa6-b97f-4a12-930c-c72e09db44e2",
+          "distance_km": 2.7
+        },
+        {
+          "stop_id": "c5f81e47-d5dd-4a8a-ba1e-5d2f2d287ff2",
+          "distance_km": 4.4
+        },
+        {
+          "stop_id": "eb4c1b57-b1c9-45b9-bb7d-9630a83468e2",
+          "distance_km": 5.8
+        },
+        {
+          "stop_id": "d64b44de-e4c6-4bc6-bd77-82b1f4c32a08",
+          "distance_km": 6.5
+        }
+      ]
+    },
+    {
+      "route_id": "R6660789",
+      "stops": [
+        {
+          "stop_id": "e2f2f764-3129-4a28-bc8f-b93e4b4f4d10",
+          "distance_km": 4.1
+        },
+        {
+          "stop_id": "bda647da-e62d-4a07-9c77-f8b5e4561d17",
+          "distance_km": 3.8
+        },
+        {
+          "stop_id": "c09db36c-300a-4efc-aa55-14a8a15f4511",
+          "distance_km": 2.6
+        },
+        {
+          "stop_id": "e5e5f5e5-5c02-4a2a-975c-aa9abf836a09",
+          "distance_km": 6.1
+        },
+        {
+          "stop_id": "f8d20092-23a8-4c16-9e25-8a8eac9d85b2",
+          "distance_km": 4.4
+        },
+        {
+          "stop_id": "c5f81e47-d5dd-4a8a-ba1e-5d2f2d287ff2",
+          "distance_km": 2.9
+        },
+        {
+          "stop_id": "eb4c1b57-b1c9-45b9-bb7d-9630a83468e2",
+          "distance_km": 3.2
+        },
+        {
+          "stop_id": "a0eb119f-7f85-47c6-a8e2-c1f3365d2083",
+          "distance_km": 7.6
+        },
+        {
+          "stop_id": "d64b44de-e4c6-4bc6-bd77-82b1f4c32a08",
+          "distance_km": 3.7
+        },
+        {
+          "stop_id": "b2eb9aa6-b97f-4a12-930c-c72e09db44e2",
+          "distance_km": 4.1
+        },
+        {
+          "stop_id": "c12382b2-1c84-47f6-921e-0f60c2f48d36",
+          "distance_km": 5.5
+        },
+        {
+          "stop_id": "e6d10ee6-f4b6-4b4f-8775-5e5d61eaf295",
+          "distance_km": 2.9
+        }
+      ]
+    },
+    {
+      "route_id": "R4673799",
+      "stops": [
+        {
+          "stop_id": "e2f2f764-3129-4a28-bc8f-b93e4b4f4d10",
+          "distance_km": 4.1
+        },
+        {
+          "stop_id": "bda647da-e62d-4a07-9c77-f8b5e4561d17",
+          "distance_km": 3.8
+        },
+        {
+          "stop_id": "c09db36c-300a-4efc-aa55-14a8a15f4511",
+          "distance_km": 2.6
+        },
+        {
+          "stop_id": "e5e5f5e5-5c02-4a2a-975c-aa9abf836a09",
+          "distance_km": 6.1
+        },
+        {
+          "stop_id": "f8d20092-23a8-4c16-9e25-8a8eac9d85b2",
+          "distance_km": 4.4
+        },
+        {
+          "stop_id": "c5f81e47-d5dd-4a8a-ba1e-5d2f2d287ff2",
+          "distance_km": 2.9
+        },
+        {
+          "stop_id": "eb4c1b57-b1c9-45b9-bb7d-9630a83468e2",
+          "distance_km": 3.2
+        },
+        {
+          "stop_id": "a0eb119f-7f85-47c6-a8e2-c1f3365d2083",
+          "distance_km": 7.6
+        },
+        {
+          "stop_id": "d64b44de-e4c6-4bc6-bd77-82b1f4c32a08",
+          "distance_km": 3.7
+        },
+        {
+          "stop_id": "b2eb9aa6-b97f-4a12-930c-c72e09db44e2",
+          "distance_km": 4.1
+        },
+        {
+          "stop_id": "c12382b2-1c84-47f6-921e-0f60c2f48d36",
+          "distance_km": 5.5
+        },
+        {
+          "stop_id": "e6d10ee6-f4b6-4b4f-8775-5e5d61eaf295",
+          "distance_km": 4.7
+        }
+      ]
+    }
+  ]
+}
