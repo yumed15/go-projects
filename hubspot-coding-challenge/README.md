@@ -1,4 +1,4 @@
-# HubSpot Coding Challenge
+# API Coding Challenge
 
 ## Running the code
 

@@ -36,6 +36,13 @@ func assignVehiclesToRoutes(routes RouteData, vehicles VehicleData) []VehicleRou
 
 	slices.SortFunc(routes.Routes, compFunc)
 
+	slices.SortFunc(routes.Routes, func(a, b Route) int {
+		if a.TotalDistance < b.TotalDistance {
+			return 1
+		}
+		return -1
+	})
+
 	for _, route := range routes.Routes {
 		vehicle, i := findOptimalVehicle(route, vehicles.Vehicles)
 		vehicles.Vehicles[i].InUse = true
