@@ -75,14 +75,14 @@ func (f CronFormat) stepExpression(exRange expressionRange, expression string) (
 
 	if exp == "*" {
 		return enumerateResultWithRange(exRange.getMin(), exRange.getMax(), step), nil
-	}
-
-	if f.rangeRegex.MatchString(exp) {
+	} else if f.rangeRegex.MatchString(exp) {
 		start, end, err := getRangeValues(exRange, exp)
 		if err != nil {
 			return nil, err
 		}
 		return enumerateResultWithRange(start, end, step), nil
+	} else if v, err := strconv.Atoi(exp); err == nil {
+		return enumerateResultWithRange(v, exRange.getMax(), step), nil
 	}
 
 	return nil, nil

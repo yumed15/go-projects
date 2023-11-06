@@ -79,3 +79,26 @@ func removeDuplicates[T string | int](sliceList []T) []T {
 	}
 	return list
 }
+
+func replaceAlphaWithNumeric(cronExpr string) string {
+	monthMap := map[string]string{
+		"JAN": "1", "FEB": "2", "MAR": "3", "APR": "4",
+		"MAY": "5", "JUN": "6", "JUL": "7", "AUG": "8",
+		"SEP": "9", "OCT": "10", "NOV": "11", "DEC": "12",
+	}
+
+	dayOfWeekMap := map[string]string{
+		"SUN": "0", "MON": "1", "TUE": "2", "WED": "3",
+		"THU": "4", "FRI": "5", "SAT": "6",
+	}
+
+	parts := strings.Fields(cronExpr)
+	for i, part := range parts {
+		if val, ok := monthMap[part]; ok {
+			parts[i] = val
+		} else if val, ok := dayOfWeekMap[part]; ok {
+			parts[i] = val
+		}
+	}
+	return strings.Join(parts, " ")
+}

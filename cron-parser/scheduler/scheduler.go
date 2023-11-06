@@ -6,7 +6,8 @@ import (
 )
 
 func calculateNextRun(schedule parser.CronSchedule, timeNow time.Time) Schedule {
-	givenTime := Schedule{timeNow.Minute(), timeNow.Hour(), timeNow.Day(), int(timeNow.Month())}
+	givenTime := Schedule{timeNow.Minute(), timeNow.Hour(),
+		timeNow.Day(), int(timeNow.Month())}
 
 	minute, nextHour := getNext(schedule.Minute, givenTime.minute)
 

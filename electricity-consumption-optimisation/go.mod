@@ -1,4 +1,4 @@
-module hived
+module electricity-consumption
 
 go 1.18
 
