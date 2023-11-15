@@ -1,6 +1,6 @@
 module gateway
 
-go 1.18
+go 1.21
 
 require (
 	github.com/golang-jwt/jwt/v5 v5.0.0

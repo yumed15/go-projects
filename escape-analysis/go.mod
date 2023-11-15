@@ -1,6 +1,6 @@
 module escape
 
-go 1.18
+go 1.21
 
 require (
 	github.com/jedib0t/go-pretty v4.3.0+incompatible
