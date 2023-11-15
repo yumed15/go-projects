@@ -1,6 +1,6 @@
 package main
 
-import "crawler/crawler"
+import "crawl/crawler"
 
 func main() {
 	crawler.Crawl()

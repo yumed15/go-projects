@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cron-parser/parser"
+	"cron/parser"
 	"fmt"
 	"os"
 	"strings"
@@ -23,6 +23,6 @@ func main() {
 	}
 
 	output := parser.FormatOutput(schedule, command)
-	
+
 	fmt.Println(output)
 }
